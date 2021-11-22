@@ -10,3 +10,10 @@ Need to have gazebo installed
 $ gazebo hasselt.world
 
 ```
+
+We have decided to refrain from using Gazebo.
+
+## Unity
+
+Current world was created using CityGen3D.
+Unity cloud will be used instead of GitHub because of the size of the project.
