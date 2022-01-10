@@ -16,4 +16,6 @@ We have decided to refrain from using Gazebo.
 ## Unity
 
 Current world was created using CityGen3D.
-Unity cloud will be used instead of GitHub because of the size of the project.
+Unity collab will be used instead of GitHub because of the size of the project.
+#### [DOWNLOAD](https://whaletank.be/login)
+Importing the world without using Unity collab might cause issues.
